@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;500;600;700&display=swap');
 :root {
   /* ignore these, unless you wanna mess with them, then go for it. they may be removed at any time, though. */
+  --font-primary: 'Karla', sans-serif;
+  --font-display: var(--font-primary) !important;
   --lightness-600-660: 0%;
   --lightness-700-760: 0%;
   --lightness-800-860: 0%;
